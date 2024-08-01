@@ -28,7 +28,7 @@ Provide a stack name: eks-stack-vpc
 
 create stack
 
-wait until - create complete
+(wait until - create complete)
 
 ### Step 3: Create EKS Cluster
 
@@ -155,3 +155,4 @@ curl (copy LoadBalancer link)
 
 chrome: (copy LoadBalancer link)
 
+### Delete Cluster
