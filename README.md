@@ -151,7 +151,7 @@ kubectl get pods (2)
 
 kubectl get svc (default, NodePort, LoadBalancer)
 
-curl <LoadBalancer link>
+curl LoadBalancer link
 
-chrome: <LoadBalancer link>
+chrome: LoadBalancer link
 
