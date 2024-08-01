@@ -22,7 +22,7 @@ Choose an existing template
 
 Upload a template file
 
-uploadfile amazon-eks-vpc-private-subnets.yaml / next /
+download in your local and then uploadfile amazon-eks-vpc-private-subnets.yaml / next /
 
 Provide a stack name: eks-stack-vpc
 
