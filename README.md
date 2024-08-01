@@ -149,7 +149,7 @@ kubectl apply -f mongo.yaml
 
 kubectl get pods (2)
 
-kubectl get svc (default, NodePort, LoadBalancer)
+kubectl get svc (default, mongo - ClusterIP, knote - LoadBalancer)
 
 curl (copy LoadBalancer link)
 
