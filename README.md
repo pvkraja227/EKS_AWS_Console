@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=aZd0UolVwD4
+AWS EKS | Create EKS Cluster on AWS using Console | Install Kubernetes on AWS
+
 AWS Console:
 
 ### Step 1: Create IAM Role for EKS Cluster
